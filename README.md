@@ -3,3 +3,5 @@
 
 install rainmeter 
 (https://www.rainmeter.net/)
+
+install rmskin from releases
