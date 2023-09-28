@@ -8,5 +8,4 @@ install rmskin from releases
 
 
  preview
-
-![alt text](https://github.com/throwromans/DancingIsraelis/blob/main/preview.gif)
+(https://github.com/throwromans/DancingIsraelis/blob/main/preview.gif)
